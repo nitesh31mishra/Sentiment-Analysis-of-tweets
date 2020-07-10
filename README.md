@@ -7,3 +7,5 @@ Here in the app the sentimental analysis is done on US Airline tweets dataset, w
 ## 1.Type of tweet(Positive,Neutral,Negative)
 ## 2.The total count of this tweets according to sentiments
 ## 3.Visualization on tweets counts according to the time hours.
+
+
